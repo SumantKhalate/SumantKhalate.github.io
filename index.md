@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[RPI_UPS_HAT](https://sumantkhalate.github.io/RPI_UPS_HAT/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
