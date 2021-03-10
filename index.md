@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Category Name 1
 
 [RPI_UPS_HAT](https://sumantkhalate.github.io/RPI_UPS_HAT/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
